@@ -1,0 +1,1 @@
+Test to blink the led on a Respberry Pi Pico using the MicroPico VS Code extension.
